@@ -1,6 +1,8 @@
-### Hi there 👋
+I am a Full Stack Developer from New York City 🗽
+I enjoy building and desigining new and exciting apps 👨🏽‍💻
+I enjoy cooking different meals on my free time 👨🏾‍🍳
 
-https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white
+<h1>Languages & Tools</h1>
 
 
 <!--
