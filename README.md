@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white
+
+
 <!--
 **Juan11211/Juan11211** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
