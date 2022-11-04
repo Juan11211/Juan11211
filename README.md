@@ -4,7 +4,9 @@
 <h3>I enjoy cooking different meals on my free time 👨🏾‍🍳 </h3>
 
 <h1>Languages & Tools</h1>
-<img src='[https://img.shields.io/HTML?style=plastic](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge)' />
+<h2>
+  <img src='https://shields.io/badge/react-black?logo=react&style=for-the-badge%22' />
+</h2>
 
 
 <h2>Lets Connect</h2>
