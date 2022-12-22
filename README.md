@@ -1,4 +1,4 @@
-  <h2>Hi, My name is Juan Aviles</h2>
+  <h1>Hi, My name is Juan Aviles 👋🏾</h1>
 <h3>I am a Full Stack Developer from New York City 🗽 </h3>
 <h3>I enjoy building and desigining new and exciting apps 👨🏽‍💻 </h3>
 <h3>I enjoy cooking different meals on my free time 👨🏾‍🍳 </h3>
