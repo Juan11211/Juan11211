@@ -22,7 +22,7 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Juan11211)](https://github.com/juan11211/github-readme-stats)
 
   
-![Snake animation](https://github.com/Juan0321/Juan11211/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Juan11211/Juan11211/blob/output/github-contribution-grid-snake.svg)
 
 <!--
 **Juan11211/Juan11211** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
