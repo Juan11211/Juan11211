@@ -18,9 +18,7 @@
 <a href='https://www.linkedin.com/in/juanbaviles/'>
 <img a href=' '  src='https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge' />
   </a>
-
-
-![Snake animation](https://github.com/Juan11211/Juan11211/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.gif)
 
 <!--
 **Juan11211/Juan11211** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
