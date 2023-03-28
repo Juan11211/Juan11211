@@ -1,22 +1,26 @@
-  <h1><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F77A4C&width=435&lines=Hello%2C+My+name+is+Juan+Aviles.;I+am+a+Full+Stack+Web+Developer;I+am+a+Frontend+Developer;I+am+a+Backend+Developer" alt="Typing SVG" /></a></h1>
+  <h1><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=000&width=435&lines=Hello%2C+My+name+is+Juan+Aviles.;I+am+a+Full+Stack+Web+Developer;I+am+a+Frontend+Developer;I+am+a+Backend+Developer" alt="Typing SVG" /></a></h1>
+  
+  <h4>I build amazing apps that solve real-world problems and improve people's lives. 🛠️💡</h4> 
+  <h4>I find creative expression and satisfaction through cooking delicious meals. 🍳🍴</h4>
+  <h4>I thrive on solving problems of all kinds, from logical puzzles to complex technical challenges. 🧩🤔</h4>
 
 <h1>Languages & Tools</h1>
 
-<img src='https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5&logoColor=white' /> <img src='https://img.shields.io/badge/CSS-blue?&style=for-the-badge&logo=css3&logoColor=white' /> <img src='https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black' /> <img src='https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB' /> <img src='https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white' /> <img src='https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white' /> <img src='https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white' /> <img src='https://img.shields.io/badge/Express.js-404D59?style=for-the-badge' /> <img src='https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white' />
-<img src='https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white' /> <img src='https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white' />
-<img src='https://img.shields.io/badge/json%20web%20tokens-323330?style=for-the-badge&logo=json-web-tokens&logoColor=pink' />
-
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,express,react,mongodb,postman,materialui,bootstrap,tailwindcss,nodejs,postgres,vscode,js,html,css,discord,cypress.io&perline=6" />
+  </a>
+</p>
 
  
-
-
-
 <h2>Lets Connect</h2>
 <a href='https://www.linkedin.com/in/juanbaviles/'>
   
-<img a href=' '  src='https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge' />
+<img a href=' 'src='https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge' />
   </a>
   
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Juan11211)](https://github.com/juan11211/github-readme-stats)
+
   
 ![snake gif](https://github.com/Juan11211/Juan11211/blob/output/github-contribution-grid-snake.gif)
 
