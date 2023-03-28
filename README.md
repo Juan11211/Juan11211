@@ -1,7 +1,4 @@
-  <h1>Hi, My name is Juan Aviles 👋🏾</h1>
-<h3>I am a Full Stack Developer from New York City 🗽 </h3>
-<h3>I enjoy building and desigining new and exciting apps 👨🏽‍💻 </h3>
-<h3>I enjoy cooking different meals on my free time 👨🏾‍🍳 </h3>
+  <h1><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F77A4C&width=435&lines=Hello%2C+My+name+is+Juan+Aviles.;I+am+a+Full+Stack+Web+Developer;I+am+a+Frontend+Developer;I+am+a+Backend+Developer" alt="Typing SVG" /></a>🏾</h1>
 
 <h1>Languages & Tools</h1>
 
