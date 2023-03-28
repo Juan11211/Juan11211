@@ -16,7 +16,7 @@
 <h2>Lets Connect</h2>
 <a href='https://www.linkedin.com/in/juanbaviles/'>
   
-<img a href=' 'src='https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge' />
+<img a href=' ' 'src='https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge' />
   </a>
   
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Juan11211)](https://github.com/juan11211/github-readme-stats)
