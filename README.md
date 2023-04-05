@@ -1,6 +1,6 @@
   <h1><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF &width=435&lines=Hello%2C+My+name+is+Juan+Aviles.;I+am+a+Full+Stack+Web+Developer;I+am+a+Frontend+Developer;I+am+a+Backend+Developer" alt="Typing SVG" /></a></h1>
   
-  <h4>I thrive on build amazing apps that solve real-world problems and improve people's lives. 🛠️💡</h4> 
+  <h4>I thrive on building amazing apps that solve real-world problems and improve people's lives. 🛠️💡</h4> 
   <h4>I find creative expression and satisfaction through cooking delicious meals. 🍳🍴</h4>
   <h4>I thrive on solving problems of all kinds, from logical puzzles to complex technical challenges. 🧩🤔</h4>
 
