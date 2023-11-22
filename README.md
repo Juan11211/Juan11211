@@ -13,7 +13,7 @@
 </p>
 
  
-<h2>Lets Connect</h2>
+<h2 style="text-align:center" >Lets Connect</h2>
 <a href='https://www.linkedin.com/in/juanbaviles/'>
   
 <img src='https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge' />
@@ -21,8 +21,6 @@
   
 [![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
 
-  
-![Snake animation](https://github.com/Juan11211/Juan11211/blob/output/github-contribution-grid-snake.svg)
 
 <!--
 **Juan11211/Juan11211** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
