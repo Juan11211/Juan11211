@@ -19,7 +19,7 @@
 <img src='https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge' />
  </a>
   
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Juan11211)](https://github.com/juan11211/github-readme-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
 
   
 ![Snake animation](https://github.com/Juan11211/Juan11211/blob/output/github-contribution-grid-snake.svg)
